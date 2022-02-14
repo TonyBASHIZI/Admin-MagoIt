@@ -1,0 +1,15 @@
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\bin\Debug\Carte MagoIT.exe.config
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\bin\Debug\Carte MagoIT.exe
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\bin\Debug\Carte MagoIT.pdb
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte MagoIT.csprojResolveAssemblyReference.cache
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte_MagoIT.Forms.frmHome.resources
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte_MagoIT.Forms.frmMain.resources
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte_MagoIT.Properties.Resources.resources
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte MagoIT.csproj.GenerateResource.Cache
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte MagoIT.exe.licenses
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte MagoIT.exe
+c:\users\thony_pc\documents\visual studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte MagoIT.pdb
+C:\Users\Thony_PC\Documents\Visual Studio 2013\Projects\Carte MagoIT\Carte MagoIT\bin\Debug\MySql.Data.dll
+C:\Users\Thony_PC\Documents\Visual Studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte_MagoIT.Reports.carte.resources
+C:\Users\Thony_PC\Documents\Visual Studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte_MagoIT.Forms.frmReport.resources
+C:\Users\Thony_PC\Documents\Visual Studio 2013\Projects\Carte MagoIT\Carte MagoIT\obj\Debug\Carte_MagoIT.Reports.enregistrement.resources
